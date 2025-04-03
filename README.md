@@ -1,4 +1,4 @@
-# hb_bmi_example
+# hb_carOnSale_challenge
 
 Flutter Challenge
 
